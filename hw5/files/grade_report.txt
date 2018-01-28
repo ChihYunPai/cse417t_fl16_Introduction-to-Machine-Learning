@@ -1,0 +1,16 @@
+This is your report from the Autograder. For this project we ran 2 evaluation(s) on your committed code.
+
+	On the knn_evaluation you scored 30 points with our tests.
+	Unfortunately, you failed 3 test(s) on this evaluation:
+		Test  3 failed testing part (b) Analyze function incorrect for absolute loss.
+		Test  8 failed testing part (c) Error with linear dataset--x={-4,-3,-2,2,3,4}, y={1,1,1,2,2,2} and k=2.
+		Test 12 failed testing part (d): Error with linear dataset--x={-4,-3,-2,2,3,4}, y={1,1,1,2,2,2} and k=5.
+
+	On the l2dist_evaluation you scored 4 points with our tests.
+	Unfortunately, you failed 2 test(s) on this evaluation:
+		Test  2 failed: Distances inaccurate for magic(3). 
+		Test  9 failed: Distances inaccurate.
+	Your implementation for l2dist was competitve! You scored 2 points based on the efficieny or quality of your code.
+
+
+For this project, you scored a total of 36 points.

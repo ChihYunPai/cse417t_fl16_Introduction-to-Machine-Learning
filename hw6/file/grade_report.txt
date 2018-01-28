@@ -1,0 +1,9 @@
+This is your report from the Autograder (final grading!). For this project we ran 1 evaluation(s) on your committed code.
+
+	On the cart_evaluation you scored 25 points with our tests.
+	Unfortunately, you failed 1 test(s) on this evaluation:
+		Test  6 failed (boosttree and evalboost):  Implementation error.
+	Your implementation for cart was competitive! You scored 15 points based on the efficiency or quality of your code.
+
+
+For this project, you scored a total of 40 points.

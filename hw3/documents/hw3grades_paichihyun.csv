@@ -1,0 +1,6 @@
+Problem,StudentScore,TotalPoints,Comment
+1,48,50,mention generalization in part a.
+2,15,15,
+3,9,10,"c. For N < 10^4, this will not generalize well"
+4,10,10,
+5,15,15,Good job.

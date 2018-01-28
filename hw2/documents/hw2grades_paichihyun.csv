@@ -1,0 +1,8 @@
+Problem,StudentScore,TotalPoints,Comment
+0,11,15,(a) and (b). need to consider the case where both positive and negative are present
+1,12,15,
+2,10,10,
+3,11,15,"(a) 5/5; (b) 4/5 lower bound is zero rather than the empty set; (c) 2/5 wrong upper bound, it is too loose if you just take the sum of all dvc for upper bound."
+4,15,15,Great job!
+5,20,20,"Good job! (a):5, (b):5, (c):5, (d):5."
+6,10,10,
