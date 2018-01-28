@@ -1,0 +1,14 @@
+Problem,StudentScore,TotalPoints,Comment
+1a,3,3,
+1b,5,5,
+1c,4,5,Missing Vmin
+1d,4,4,
+1e,3,3,
+2:Correctly Classified?,15,15,
+2:Histrogram,2,2,
+2:Analysis,0,8,
+2:Extra Credit,0,10,
+2:Overall Comments,,,
+3,13,20,See PDF
+4,15,15,
+5,5,15,"a -5, b-5"
